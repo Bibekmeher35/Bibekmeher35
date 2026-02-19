@@ -1,4 +1,4 @@
-# Bibrkmeher35
+# Bibekmeher35
 # 💫 About Me:
 I’m currently working on building AI-powered applications including computer vision systems and full-stack web apps using Flask, OpenCV, and JavaScript, and I’m looking to collaborate on AI/ML projects focused on real-time intelligent systems and deepfake detection while seeking help with advanced deep learning optimization and scalable deployment; I’m currently learning advanced Machine Learning, Data Structures & Algorithms, and system design while pursuing B.Tech at C.V. Raman Global University and certification from Nxtwave Disruptive Technologies—ask me about Python, APIs, CNN/LSTM models, and end-to-end AI solutions, and fun fact: my deepfake detection model ranked 14th All India at NexGen Hack 2025 and I achieved ~90% face recognition accuracy during my internship at National Institute of Technology.
 
